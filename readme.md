@@ -10,7 +10,7 @@ Markdown 主题
 
 
 ## [Demo](https://nihaojob.github.io/markdown-css-smartisan)
-可以[体验编辑器](https://nihaojob.github.io/markdown-css-smartisan/examples/index.html)
+可以[体验编辑器](https://github.com/samyn/markdown-css-smartisan/examples/index.html)
 , 或[预览](https://nihaojob.github.io/markdown-css-smartisan)我们的主题，和[锤子便签](https://yun.smartisan.com/apps/note/md.html)对比一下。
 
 ## Install
